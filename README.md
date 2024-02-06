@@ -12,4 +12,4 @@
   python Wrapper.py --ImagesPath "Path/to/the/folder"
 ```
 
-## Results
+## Resultss
